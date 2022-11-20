@@ -17,6 +17,8 @@ namespace DeckPrint {
 
                     listA.Add(vales[0]);
                     listA.Add(vales[1]);
+                    listA.Add(vales[2]);
+                    listA.Add(vales[3]);
                 }
                 for (int i = 0; i < listA.Count; i++)
                 {
