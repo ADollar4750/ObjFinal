@@ -1,0 +1,15 @@
+C:\Users\alext\OneDrive\Desktop\FinalBojPRoj\ObjFinal\bin\Debug\net6.0\ObjFinal.exe
+C:\Users\alext\OneDrive\Desktop\FinalBojPRoj\ObjFinal\bin\Debug\net6.0\ObjFinal.deps.json
+C:\Users\alext\OneDrive\Desktop\FinalBojPRoj\ObjFinal\bin\Debug\net6.0\ObjFinal.runtimeconfig.json
+C:\Users\alext\OneDrive\Desktop\FinalBojPRoj\ObjFinal\bin\Debug\net6.0\ObjFinal.dll
+C:\Users\alext\OneDrive\Desktop\FinalBojPRoj\ObjFinal\bin\Debug\net6.0\ObjFinal.pdb
+C:\Users\alext\OneDrive\Desktop\FinalBojPRoj\ObjFinal\obj\Debug\net6.0\ObjFinal.csproj.AssemblyReference.cache
+C:\Users\alext\OneDrive\Desktop\FinalBojPRoj\ObjFinal\obj\Debug\net6.0\ObjFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alext\OneDrive\Desktop\FinalBojPRoj\ObjFinal\obj\Debug\net6.0\ObjFinal.AssemblyInfoInputs.cache
+C:\Users\alext\OneDrive\Desktop\FinalBojPRoj\ObjFinal\obj\Debug\net6.0\ObjFinal.AssemblyInfo.cs
+C:\Users\alext\OneDrive\Desktop\FinalBojPRoj\ObjFinal\obj\Debug\net6.0\ObjFinal.csproj.CoreCompileInputs.cache
+C:\Users\alext\OneDrive\Desktop\FinalBojPRoj\ObjFinal\obj\Debug\net6.0\ObjFinal.dll
+C:\Users\alext\OneDrive\Desktop\FinalBojPRoj\ObjFinal\obj\Debug\net6.0\refint\ObjFinal.dll
+C:\Users\alext\OneDrive\Desktop\FinalBojPRoj\ObjFinal\obj\Debug\net6.0\ObjFinal.pdb
+C:\Users\alext\OneDrive\Desktop\FinalBojPRoj\ObjFinal\obj\Debug\net6.0\ObjFinal.genruntimeconfig.cache
+C:\Users\alext\OneDrive\Desktop\FinalBojPRoj\ObjFinal\obj\Debug\net6.0\ref\ObjFinal.dll
