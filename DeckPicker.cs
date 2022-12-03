@@ -1,4 +1,5 @@
 ﻿using DeckPrint;
+using System.Collections;
 
 var files = new List<string>(); 
 string sdira= "path of the directory"; 
@@ -10,10 +11,16 @@ foreach (string d in Directory.GetDirectories(sdira)) {
 foreach(string file in files) { }
 string file2 = files[2]; 
 // or convert to array
-string[] arrays = files.ToArray();
+string[] decks = files.ToArray();
 
-Console.WriteLine("Please pick a deck or create a new one: ");
-
-
+Console.WriteLine("Please type Create if you want to make a deck if you want to view made decks type anything else.");
+String Choice = Console.ReadLine();
+if(Choice == ("Create"))
+{
+ 
+}
+else
+{
 Printer loreHold = new Printer();
 loreHold.PrintDeck();
+}
