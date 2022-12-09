@@ -1,4 +1,4 @@
-// The excel file was put in on accedent I realized it would be easier to conveter it to a cvs file instead.
+// This is writing the file chosen.
 using System.IO;
 namespace DeckPrint {
     class Printer {
@@ -6,7 +6,7 @@ namespace DeckPrint {
         public void PrintDeck()
         {
             Console.WriteLine("test");
-            using (var reader = new StreamReader("LoreHold_Legacies.csv"))
+            using (var reader = new StreamReader(string.Format("DeckFolder/{choice}LoreHold_Legacies.csv", "test")))
             {
                 List<string> listA = new List<string>();
                 List<string> listB = new List<string>();
